@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Smart Task Tracker</h1>
+        <h1>My First Task Tracker</h1>
         <p className="subtitle">Focus on your goals</p>
       </header>
       
